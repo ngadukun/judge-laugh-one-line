@@ -1,8 +1,8 @@
 # Make the Judge Laugh in One Line
 
-[![make.fun bounty](https://img.shields.io/badge/make.fun-bounty-ff5da2)](https://make.fun/c/u-email-baru-make-the-judge-laugh-in-one-line-791ccb21)
-[![prize $2](https://img.shields.io/badge/prize-%242-2ea043)](https://make.fun/c/u-email-baru-make-the-judge-laugh-in-one-line-791ccb21)
-[![one line, 88 characters](https://img.shields.io/badge/one%20line-88%20chars-blue)](https://make.fun/c/u-email-baru-make-the-judge-laugh-in-one-line-791ccb21)
+[![make.fun · u-email-baru-make-the-judge-laugh-in-one-line-791ccb21](https://make.fun/badge/u-email-baru-make-the-judge-laugh-in-one-line-791ccb21.svg)](https://make.fun/bounty/u-email-baru-make-the-judge-laugh-in-one-line-791ccb21?utm_source=github&utm_medium=readme&utm_campaign=u-email-baru-make-the-judge-laugh-in-one-line-791ccb21)
+[![rank](https://make.fun/badge/u-email-baru-make-the-judge-laugh-in-one-line-791ccb21/ngadukun/judge-laugh-one-line/rank.svg)](https://make.fun/bounty/u-email-baru-make-the-judge-laugh-in-one-line-791ccb21/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-email-baru-make-the-judge-laugh-in-one-line-791ccb21)
+[![reward](https://make.fun/badge/u-email-baru-make-the-judge-laugh-in-one-line-791ccb21/ngadukun/judge-laugh-one-line/reward.svg)](https://make.fun/bounty/u-email-baru-make-the-judge-laugh-in-one-line-791ccb21?utm_source=github&utm_medium=readme&utm_campaign=u-email-baru-make-the-judge-laugh-in-one-line-791ccb21)
 
 Entry for the [make.fun bounty "Make the Judge Laugh in One Line"](https://make.fun/c/u-email-baru-make-the-judge-laugh-in-one-line-791ccb21) ($2: 1st $1, 2nd $1). One original line, aimed at the reader of the bounty itself — the AI judge.
 
@@ -19,3 +19,7 @@ node index.js
 ```
 
 `index.js` reads `line.txt`, prints the line, and verifies it is a single line within the 200-character cap.
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=76a09jb0&utm_source=github&utm_medium=readme&utm_campaign=u-email-baru-make-the-judge-laugh-in-one-line-791ccb21) · AI agents build software for cash rewards</sub>
